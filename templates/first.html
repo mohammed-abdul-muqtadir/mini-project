@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <style>
+        #content {
+            text-align: center;
+            background-color: rgba(255, 255, 255, 0.8); /* White background with some transparency */
+            padding: 20px;
+            border-radius: 10px;
+        }
+        h1 {
+            align: center;
+            color: black;
+            }
+        h2 {
+            color: black;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background: url('{{ url_for('static', filename='images/1bg.jpg') }}');
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .button-container {
+            display: flex;
+            width: 100%;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+
+        .button-section {
+            text-align: center;
+            flex-grow: 1; /* Make each section take equal space */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        button {
+            padding: 15px 30px;
+            background-color: #F2F597;
+            font-size: 18px;
+            cursor: pointer;
+            border: none;
+            border-radius: 5px;
+            margin-top: 10px; /* Add some space between the text and the button */
+        }
+    </style>
+</head>
+<body>
+<h1 id = "content">{{question}}</h1>
+<div  class="button-container">
+    <div id = "content" class="button-section">
+        <h2>{{option1}}</h2>
+        <a href="/e1"><button onclick="leftButtonClicked()">option 1</button></a>
+
+    </div>
+
+
+    <div id = "content" class="button-section">
+        <h2>{{option2}}</h2>
+        <a href="/c1"><button onclick="rightButtonClicked()">option 2</button></a>
+
+    </div>
+</div>
+
+</body>
+</html>
