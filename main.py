@@ -30,11 +30,6 @@ def update():
         op1 = "wrong"
         op2 = "right"
 
-    print(question, option1, option2, brief1, brief2, op1, op2)
-
-
-update()
-
 
 @app.route('/')
 def index():
