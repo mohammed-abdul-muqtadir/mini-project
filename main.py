@@ -23,7 +23,7 @@ def update():
     option2 = data["option2"]
     brief1 = data["brief1"]
     brief2 = data["brief2"]
-    if "right" in brief1:
+    if "correct" in brief1:
         op1 = "right"
         op2 = "wrong"
     else:

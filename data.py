@@ -1,218 +1,259 @@
-mcq = {1: {"question": "Question: What does the right to education ensure for children in India?",
-           "option1": "Access to quality education regardless of gender or socioeconomic status.",
-           "option2": "Access to healthcare services only.",
-           "brief1": "Option 1 is correct because the right to education in India guarantees access to quality "
-                     "education for all children, irrespective of their background or gender, contributing to their "
-                     "overall development and empowerment.",
-           "brief2": "Option 2 is incorrect because while healthcare is important, the right to education encompasses "
-                     "a broader set of provisions beyond just healthcare services."
-           },
+mcq = {1:
+    {
+        "question": "Why is it important for children to have time to play?",
+        "option1": "Because play helps children learn new things and make friends.",
+        "option2": "Because play is a waste of time and children should focus on schoolwork.",
+        "brief1": "Option 1 is correct because play is essential for children's learning, creativity, and social development, helping them discover new things, make friends, and have fun.",
+        "brief2": "Option 2 is incorrect because play is an important part of childhood and contributes to children's overall development and well-being."
+    },
+    2:
+        {
+            "question": "Why should children be allowed to express their thoughts and feelings?",
+            "option1": "Because it helps them feel understood and builds their confidence.",
+            "option2": "Because adults don't care about children's opinions.",
+            "brief1": "Option 1 is correct because expressing thoughts and feelings is important for children's emotional well-being and self-confidence, and it helps them feel understood and valued.",
+            "brief2": "Option 2 is incorrect because many adults value children's opinions and feelings, and expressing themselves helps children develop important communication skills."
+        },
+    3:
+        {
+            "question": "Why is it important for children to have access to books and stories?",
+            "option1": "Because it helps them learn new words and imagine new worlds.",
+            "option2": "Because books are boring and a waste of time.",
+            "brief1": "Option 1 is correct because reading books and stories is important for children's language development, imagination, and understanding of the world around them.",
+            "brief2": "Option 2 is incorrect because books and stories can be exciting and educational, opening up new worlds and ideas for children to explore."
+        },
+    4:
+        {
+            "question": "Why is it important for children to have time to spend with their families?",
+            "option1": "Because it helps them feel loved and supported.",
+            "option2": "Because families are boring and children should spend time with friends instead.",
+            "brief1": "Option 1 is correct because spending time with family helps children feel loved, supported, and connected, and it strengthens family bonds.",
+            "brief2": "Option 2 is incorrect because family time is valuable for children's emotional well-being and provides opportunities for bonding, communication, and support."
+        },
+    5:
+        {
+            "question": "Why should children be protected from bullying?",
+            "option1": "Because bullying can hurt their feelings and make them feel unsafe.",
+            "option2": "Because bullying builds character and toughens children up.",
+            "brief1": "Option 1 is correct because bullying can have serious negative effects on children's mental health, self-esteem, and sense of safety.",
+            "brief2": "Option 2 is incorrect because bullying is harmful and can cause long-lasting emotional harm to children, rather than toughening them up."
+        },
+    6:
+        {
+            "question": "Why is it important for children to eat healthy foods?",
+            "option1": "Because it helps their bodies grow strong and gives them energy to play.",
+            "option2": "Because healthy foods taste bad and children should eat junk food instead.",
+            "brief1": "Option 1 is correct because eating healthy foods provides children with essential nutrients that support their growth, development, and overall well-being, and it gives them energy to stay active and play.",
+            "brief2": "Option 2 is incorrect because while junk food might taste good, it lacks the essential nutrients children need for growth and health."
+        },
+    7:
+        {
+            "question": "Why is it important for children to help take care of the environment?",
+            "option1": "Because it helps protect nature and makes the world a better place for everyone.",
+            "option2": "Because the environment doesn't matter and children should focus on themselves.",
+            "brief1": "Option 1 is correct because taking care of the environment ensures a healthy planet for future generations and teaches children responsibility and respect for nature.",
+            "brief2": "Option 2 is incorrect because the environment affects everyone, and children have a role to play in protecting it for their own future and that of others."
+        },
+    8:
+        {
+            "question": "Why should children be encouraged to try new things?",
+            "option1": "Because it helps them discover their talents and interests.",
+            "option2": "Because it's safer to stick to what they already know.",
+            "brief1": "Option 1 is correct because trying new things helps children learn and grow, develop new skills, and build confidence.",
+            "brief2": "Option 2 is incorrect because while sticking to what's familiar might feel safer, it limits children's opportunities for learning and personal development."
+        },
+    9:
+        {
+            "question": "Why should children be treated fairly and equally?",
+            "option1": "Because it's the right thing to do and everyone deserves respect.",
+            "option2": "Because some children are better than others and deserve special treatment.",
+            "brief1": "Option 1 is correct because treating children fairly and equally promotes harmony, respect, and inclusivity, and it ensures that everyone has the same opportunities to succeed and be happy.",
+            "brief2": "Option 2 is incorrect because every child deserves to be treated with respect and fairness, regardless of their abilities or circumstances."
+        },
+    10:
+        {
+            "question": "Why is it important for children to have time to rest and relax?",
+            "option1": "Because it helps them recharge their energy and reduces stress.",
+            "option2": "Because resting is lazy and children should always be busy.",
+            "brief1": "Option 1 is correct because rest and relaxation are essential for children's physical and mental health, helping them recharge their energy, reduce stress, and improve their mood.",
+            "brief2": "Option 2 is incorrect because rest is necessary for overall well-being, and children need time to relax and enjoy leisure activities."
+        },
+    11:
+        {
+            "question": "Why should children be encouraged to ask questions?",
+            "option1": "Because it helps them learn and understand new things.",
+            "option2": "Because questions are annoying and children should just listen.",
+            "brief1": "Option 1 is correct because asking questions is a fundamental part of learning, curiosity, and exploration, helping children understand the world around them and deepen their knowledge.",
+            "brief2": "Option 2 is incorrect because asking questions is an important way for children to engage with and learn about their surroundings, and encouraging curiosity fosters critical thinking and intellectual growth."
+        },
 
-       2:
-           {
-               "question": "What is the primary goal of the Convention on the Rights of the Child?",
-               "option1": "To protect the rights of children and ensure their well-being and development.",
-               "option2": "To restrict the rights of children and enforce strict rules.",
-               "brief1": "Option 1 is correct because the Convention on the Rights of the Child aims to protect and "
-                         "promote the rights of children worldwide, ensuring their well-being, development, "
-                         "and protection from harm.",
-               "brief2": "Option 2 is incorrect because the Convention on the Rights of the Child is designed to "
-                         "uphold the rights of children and provide them with necessary protections and "
-                         "opportunities, rather than restricting their rights."
-           },
+    12:
+        {
+            "question": "Why is it important for children to have access to clean water and sanitation?",
+            "option1": "Because it keeps them healthy and prevents diseases.",
+            "option2": "Because water and sanitation are not important for children.",
+            "brief1": "Option 1 is correct because access to clean water and sanitation is essential for children's health, hygiene, and overall well-being, helping prevent waterborne diseases and ensuring their safety.",
+            "brief2": "Option 2 is incorrect because clean water and sanitation are basic human needs and critical for maintaining children's health and dignity."
+        },
 
-       3:
-           {
-               "question": "What does the right to healthcare encompass for children?",
-               "option1": "Access to medical care, immunizations, and healthcare facilities.",
-               "option2": "Access to entertainment facilities only.",
-               "brief1": "Option 1 is correct because the right to healthcare for children includes access to medical "
-                         "care, immunizations, healthcare facilities, and essential health services, ensuring their "
-                         "physical well-being and proper development.",
-               "brief2": "Option 2 is incorrect because while entertainment is important for children, the right to "
-                         "healthcare primarily focuses on ensuring access to medical services and facilities "
-                         "necessary for their well-being and development."
-           },
+    13:
+        {
+            "question": "Why should children be taught about different cultures and traditions?",
+            "option1": "Because it promotes understanding, tolerance, and respect for diversity.",
+            "option2": "Because learning about different cultures is boring and unnecessary.",
+            "brief1": "Option 1 is correct because learning about different cultures and traditions fosters cultural understanding, empathy, and respect for diversity, promoting harmony and cooperation in multicultural societies.",
+            "brief2": "Option 2 is incorrect because understanding and appreciating diverse cultures enriches children's perspectives and helps them become global citizens who value inclusivity and respect for others."
+        },
 
-       4:
-           {
-               "question": "What is the significance of the right to expression for children?",
-               "option1": "It allows children to freely express their opinions and ideas.",
-               "option2": "It restricts children from expressing their thoughts and opinions.",
-               "brief1": "Option 1 is correct because the right to expression empowers children to freely express "
-                         "their thoughts, opinions, and ideas, fostering their cognitive development, "
-                         "self-confidence, and participation in decision-making processes.",
-               "brief2": "Option 2 is incorrect because the right to expression is essential for children's "
-                         "development, enabling them to communicate, learn, and engage with the world around them, "
-                         "rather than restricting their ability to express themselves."
-           },
+    14:
+        {
+            "question": "Why should children be encouraged to help others?",
+            "option1": "Because it teaches kindness, empathy, and cooperation.",
+            "option2": "Because helping others is a waste of time and children should focus on themselves.",
+            "brief1": "Option 1 is correct because helping others fosters empathy, compassion, and a sense of responsibility, contributing to a caring and supportive community.",
+            "brief2": "Option 2 is incorrect because helping others is a valuable way for children to make a positive difference in the world and develop important social and emotional skills."
+        },
 
-       5:
-           {
-               "question": "What does the right to protection from abuse and exploitation aim to prevent?",
-               "option1": "It aims to prevent children from experiencing physical, emotional, or sexual abuse.",
-               "option2": "It aims to restrict children's freedom and autonomy.",
-               "brief1": "Option 1 is correct because the right to protection from abuse and exploitation seeks to "
-                         "safeguard children from various forms of harm, including physical, emotional, "
-                         "or sexual abuse, exploitation, and violence, ensuring their safety, well-being, and dignity.",
-               "brief2": "Option 2 is incorrect because the right to protection from abuse and exploitation is "
-                         "intended to protect children's rights and ensure their safety and well-being, rather than "
-                         "restricting their freedom or autonomy."
-           },
+    15:
+        {
+            "question": "Why should children be taught about their rights?",
+            "option1": "Because it empowers them to advocate for themselves and others.",
+            "option2": "Because children don't have rights.",
+            "brief1": "Option 1 is correct because understanding their rights empowers children to protect themselves, speak up for their needs, and advocate for justice and equality.",
+            "brief2": "Option 2 is incorrect because children have rights guaranteed by international conventions and laws, and educating them about these rights is crucial for their well-being and protection."
+        },
 
-       6:
-           {
-               "question": "What does the right to a standard of living encompass for children?",
-               "option1": "Access to adequate food, clothing, shelter, and healthcare.",
-               "option2": "Access to luxury items and privileges only.",
-               "brief1": "Option 1 is correct because the right to a standard of living ensures that children have "
-                         "access to essential necessities such as adequate food, clothing, shelter, and healthcare, "
-                         "supporting their physical, emotional, and social development.",
-               "brief2": "Option 2 is incorrect because while luxury items and privileges may contribute to a "
-                         "comfortable lifestyle, the right to a standard of living primarily focuses on providing "
-                         "children with basic necessities essential for their well-being and development."
-           },
+    16:
+        {
+            "question": "Why should children be encouraged to express their creativity?",
+            "option1": "Because it allows them to explore their imagination and problem-solving skills.",
+            "option2": "Because creativity is a waste of time and children should focus on practical skills.",
+            "brief1": "Option 1 is correct because expressing creativity fosters innovation, critical thinking, and self-expression, helping children develop valuable skills for personal and academic success.",
+            "brief2": "Option 2 is incorrect because creativity is essential for children's cognitive development and allows them to explore their interests, passions, and unique talents."
+        },
 
-       7:
-           {
-               "question": "What is the significance of the right to non-discrimination for children?",
-               "option1": "It ensures that all children are treated equally and have access to opportunities "
-                          "regardless of their race, gender, or background.",
-               "option2": "It allows for discrimination against certain groups of children based on arbitrary factors.",
-               "brief1": "Option 1 is correct because the right to non-discrimination ensures that all children are "
-                         "treated equally and have access to opportunities, resources, and services without "
-                         "discrimination based on factors such as race, gender, ethnicity, or social status, "
-                         "promoting inclusivity, equality, and social justice.",
-               "brief2": "Option 2 is incorrect because the right to non-discrimination is fundamental in protecting "
-                         "children's rights and promoting equality, prohibiting any form of discrimination against "
-                         "children and ensuring their equal treatment and opportunities."
-           },
+    17:
+        {
+            "question": "Why is it important for children to have access to healthcare?",
+            "option1": "Because it helps keep them healthy and treats illnesses.",
+            "option2": "Because healthcare is only for adults.",
+            "brief1": "Option 1 is correct because access to healthcare is essential for children's physical well-being, ensuring they receive preventive care, treatment for illnesses, and support for their overall health and development.",
+            "brief2": "Option 2 is incorrect because children, like adults, need access to healthcare services to maintain their well-being and receive necessary medical attention."
+        },
 
-       8:
-           {
-               "question": "What does the right to leisure and play contribute to in children?",
-               "option1": "It contributes to children's physical, cognitive, and social development.",
-               "option2": "It restricts children's activities and forces them to focus solely on academic pursuits.",
-               "brief1": "Option 1 is correct because the right to leisure and play is essential for children's "
-                         "overall development, fostering their physical health, creativity, social skills, "
-                         "and emotional well-being, while also providing opportunities for relaxation, exploration, "
-                         "and self-expression.",
-               "brief2": "Option 2 is incorrect because leisure and play are integral components of childhood "
-                         "development, promoting holistic growth and well-being, rather than restricting children's "
-                         "activities or focusing solely on academic pursuits."
-           },
+    18:
+        {
+            "question": "Why is it important for children to have time to play outdoors?",
+            "option1": "Because it allows them to explore nature and stay active.",
+            "option2": "Because outdoor play is dangerous and children should stay indoors.",
+            "brief1": "Option 1 is correct because outdoor play promotes physical activity, creativity, and connection with nature, contributing to children's physical, mental, and emotional well-being.",
+            "brief2": "Option 2 is incorrect because outdoor play is beneficial for children's health and development, and with proper supervision, it provides opportunities for exploration and learning in a natural environment."
+        },
 
-       9:
-           {
-               "question": "What is the significance of the right to family for children?",
-               "option1": "It ensures that children have the right to grow up in a supportive and nurturing family "
-                          "environment.",
-               "option2": "It separates children from their families and denies them familial relationships.",
-               "brief1": "Option 1 is correct because the right to family ensures that children have the opportunity "
-                         "to grow up in a supportive and nurturing family environment, promoting their emotional "
-                         "well-being, stability, and sense of belonging, while also facilitating their development "
-                         "and socialization.",
-               "brief2": "Option 2 is incorrect because the right to family recognizes the importance of familial "
-                         "relationships and aims to protect children's right to maintain contact with their families, "
-                         "rather than separating them from their families or denying them such relationships."
-           },
+    19:
+        {
+            "question": "Why is it important for children to learn about their own emotions?",
+            "option1": "Because it helps them understand and manage their feelings.",
+            "option2": "Because emotions are not important and children should ignore them.",
+            "brief1": "Option 1 is correct because learning about emotions helps children develop emotional intelligence, empathy, and coping skills, enabling them to navigate social interactions and handle challenges more effectively.",
+            "brief2": "Option 2 is incorrect because emotions play a crucial role in children's social and emotional development, and understanding and expressing emotions are essential life skills."
+        },
 
-       10:
-           {
-               "question": "What is the significance of the right to participation for children?",
-               "option1": "It allows children to actively participate in decisions affecting their lives and "
-                          "communities.",
-               "option2": "It prohibits children from voicing their opinions or being involved in decision-making "
-                          "processes.",
-               "brief1": "Option 1 is correct because the right to participation empowers children to actively engage "
-                         "in decisions that affect their lives, communities, and environments, fostering their sense "
-                         "of agency, responsibility, and civic engagement, while also promoting democratic principles "
-                         "and social inclusion.",
-               "brief2": "Option 2 is incorrect because the right to participation recognizes children as active "
-                         "participants in society and decision-making processes, encouraging their involvement and "
-                         "contributions, rather than prohibiting their participation or silencing their voices."
-           },
-       11:
-           {
-               "question": "What is the significance of the right to privacy for children?",
-               "option1": "It protects children from unwarranted intrusion into their personal lives and information.",
-               "option2": "It allows for constant monitoring and surveillance of children's activities.",
-               "brief1": "Option 1 is correct because the right to privacy ensures that children have control over their personal information and protects them from unwarranted intrusion or surveillance, fostering their sense of autonomy, dignity, and security.",
-               "brief2": "Option 2 is incorrect because while safeguarding children's privacy is important, constant monitoring and surveillance can infringe upon their rights and undermine their sense of autonomy and privacy."
-           },
+    20:
+        {
+            "question": "Why should children be taught about the importance of kindness and empathy?",
+            "option1": "Because it promotes positive relationships and caring communities.",
+            "option2": "Because being mean is more fun than being kind.",
+            "brief1": "Option 1 is correct because teaching kindness and empathy helps children develop strong interpersonal skills, build meaningful connections with others, and contribute to a more compassionate and inclusive society.",
+            "brief2": "Option 2 is incorrect because kindness and empathy are fundamental values that foster cooperation, understanding, and well-being, promoting positive relationships and social harmony."
+        },
+    21:
+        {
+            "question": "Why should children be taught about internet safety?",
+            "option1": "Because it helps them navigate online risks and protect their privacy.",
+            "option2": "Because the internet is always safe and children don't need to worry.",
+            "brief1": "Option 1 is correct because understanding internet safety empowers children to recognize and avoid online dangers such as cyberbullying, inappropriate content, and online predators, ensuring a safer online experience.",
+            "brief2": "Option 2 is incorrect because while the internet offers valuable resources, it also poses risks, and teaching children about online safety is essential for their protection."
+        },
 
-       12:
-           {
-               "question": "What does the right to culture and identity entail for children?",
-               "option1": "It ensures that children have the right to preserve and practice their cultural heritage and identity.",
-               "option2": "It mandates assimilation into a dominant culture, disregarding children's diverse backgrounds.",
-               "brief1": "Option 1 is correct because the right to culture and identity recognizes the importance of children's diverse cultural backgrounds and heritage, ensuring their right to preserve, practice, and express their cultural identity, language, and traditions, promoting diversity, tolerance, and cultural understanding.",
-               "brief2": "Option 2 is incorrect because the right to culture and identity respects children's diverse backgrounds and heritage, allowing them to maintain and express their cultural identity rather than mandating assimilation into a dominant culture."
-           },
+    22:
+        {
+            "question": "Why is it important for children to learn about financial literacy?",
+            "option1": "Because it helps them make informed decisions about money and budgeting.",
+            "option2": "Because money is not important for children.",
+            "brief1": "Option 1 is correct because financial literacy equips children with essential skills to manage money responsibly, understand the value of saving and budgeting, and make informed financial decisions throughout their lives.",
+            "brief2": "Option 2 is incorrect because financial literacy is crucial for children's future financial well-being and independence, enabling them to navigate financial challenges and plan for their future."
+        },
 
-       13:
-           {
-               "question": "What does the right to freedom of religion or belief ensure for children?",
-               "option1": "It grants children the freedom to practice their religion or belief and participate in religious activities.",
-               "option2": "It imposes a specific religion or belief system on children without their consent.",
-               "brief1": "Option 1 is correct because the right to freedom of religion or belief guarantees children "
-                         "the freedom to practice, profess, and manifest their religion or belief, as well as "
-                         "participate in religious activities, without discrimination or coercion, promoting "
-                         "religious diversity, tolerance, and respect for individual autonomy.",
-               "brief2": "Option 2 is incorrect because the right to freedom of religion or belief respects children's autonomy and allows them to choose their religion or belief system freely, without imposing any specific religion or belief on them."
-           },
+    23:
+        {
+            "question": "Why should children learn about environmental conservation?",
+            "option1": "Because it teaches them to protect the planet and preserve natural resources.",
+            "option2": "Because the environment will take care of itself and children don't need to learn about conservation.",
+            "brief1": "Option 1 is correct because environmental conservation educates children about the importance of protecting ecosystems, reducing waste, and adopting sustainable practices to mitigate climate change and preserve biodiversity.",
+            "brief2": "Option 2 is incorrect because environmental conservation is everyone's responsibility, and educating children about conservation instills values of stewardship and responsibility for the planet."
+        },
 
-       14:
-           {
-               "question": "What does the right to access information entail for children?",
-               "option1": "It ensures that children have access to age-appropriate information and knowledge.",
-               "option2": "It restricts children's access to information, hindering their intellectual development.",
-               "brief1": "Option 1 is correct because the right to access information ensures that children have access to age-appropriate information, knowledge, and media, empowering them to learn, explore, and make informed decisions, while also promoting their intellectual curiosity, critical thinking, and creativity.",
-               "brief2": "Option 2 is incorrect because access to information is essential for children's learning and development, and restricting their access to information can hinder their intellectual growth and inhibit their ability to make informed decisions."
-           },
+    24:
+        {
+            "question": "Why should children learn about diversity and inclusion?",
+            "option1": "Because it fosters respect for people from different backgrounds and promotes equality.",
+            "option2": "Because diversity is not important and everyone is the same.",
+            "brief1": "Option 1 is correct because learning about diversity and inclusion helps children appreciate differences, combat discrimination, and build inclusive communities where everyone feels valued and respected.",
+            "brief2": "Option 2 is incorrect because diversity enriches society and promotes understanding, and teaching children about diversity fosters empathy, tolerance, and social cohesion."
+        },
 
-       15:
-           {
-               "question": "What is the significance of the right to protection in armed conflict for children?",
-               "option1": "It aims to protect children from recruitment into armed forces and ensure their safety during armed conflict.",
-               "option2": "It encourages children's participation in armed conflict.",
-               "brief1": "Option 1 is correct because the right to protection in armed conflict seeks to safeguard children from the devastating impacts of armed conflict, including recruitment into armed forces, abduction, injury, or death, ensuring their safety, well-being, and psychosocial support, while also promoting their rehabilitation and reintegration into society.",
-               "brief2": "Option 2 is incorrect because the right to protection in armed conflict prioritizes children's safety and well-being, aiming to shield them from the harms of armed conflict rather than encouraging their involvement in such conflicts."
-           },
+    25:
+        {
+            "question": "Why is it important for children to have positive role models?",
+            "option1": "Because they inspire children to develop good values and behaviors.",
+            "option2": "Because children should figure things out on their own without role models.",
+            "brief1": "Option 1 is correct because positive role models provide children with examples of admirable qualities and behaviors, shaping their values, aspirations, and character development.",
+            "brief2": "Option 2 is incorrect because positive role models play a crucial role in children's social and moral development, offering guidance, inspiration, and support."
+        },
 
-       16:
-           {
-               "question": "What is the significance of the right to adequate standard of living for children?",
-               "option1": "It ensures that children have access to basic necessities such as food, shelter, and healthcare.",
-               "option2": "It prioritizes material wealth over children's well-being.",
-               "brief1": "Option 1 is correct because the right to an adequate standard of living ensures that children have access to basic necessities such as food, shelter, healthcare, education, and social services, promoting their physical, mental, and social development, while also addressing poverty and inequality.",
-               "brief2": "Option 2 is incorrect because the right to an adequate standard of living focuses on ensuring children's well-being and development by providing essential necessities, rather than prioritizing material wealth."
-           },
+    26:
+        {
+            "question": "Why is it important for children to learn about personal hygiene?",
+            "option1": "Because it helps prevent illness and promotes overall health.",
+            "option2": "Because personal hygiene is not important and children don't need to worry about cleanliness.",
+            "brief1": "Option 1 is correct because practicing good personal hygiene habits, such as washing hands and brushing teeth, reduces the risk of infections, promotes physical health, and fosters a sense of well-being.",
+            "brief2": "Option 2 is incorrect because personal hygiene is essential for preventing the spread of germs and maintaining health, and teaching children about hygiene habits instills lifelong practices for cleanliness and health."
+        },
 
-       17:
-           {
-               "question": "What is the significance of the right to participation in cultural and artistic activities for children?",
-               "option1": "It allows children to engage in creative expression, cultural exploration, and artistic endeavors.",
-               "option2": "It restricts children's exposure to cultural diversity and artistic expression.",
-               "brief1": "Option 1 is correct because the right to participation in cultural and artistic activities enables children to engage in creative expression, cultural exploration, and artistic endeavors, fostering their imagination, creativity, and cultural understanding, while also promoting social cohesion and diversity.",
-               "brief2": "Option 2 is incorrect because participation in cultural and artistic activities enriches children's lives and enhances their cultural awareness, allowing them to explore diverse perspectives and forms of expression, rather than restricting their exposure to cultural diversity and artistic expression."
-           },
+    27:
+        {
+            "question": "Why should children be encouraged to pursue their interests and passions?",
+            "option1": "Because it helps them develop skills and find joy in learning.",
+            "option2": "Because children should only focus on what others want them to do.",
+            "brief1": "Option 1 is correct because pursuing interests and passions allows children to explore their talents, develop new skills, and experience fulfillment, fostering a lifelong love for learning and personal growth.",
+            "brief2": "Option 2 is incorrect because encouraging children to pursue their interests nurtures their individuality, creativity, and self-confidence, promoting autonomy and intrinsic motivation."
+        },
 
-       18:
-           {
-               "question": "What is the significance of the right to access justice for children?",
-               "option1": "It ensures that children have access to legal remedies and protections in case of rights violations.",
-               "option2": "It denies children the right to seek legal redress for rights violations.",
-               "brief1": "Option 1 is correct because the right to access justice ensures that children have access to legal remedies, protections, and mechanisms to seek redress for rights violations, including legal representation, fair treatment, and rehabilitation, promoting accountability, justice, and the rule of law.",
-               "brief2": "Option 2 is incorrect because access to justice is essential for safeguarding children's rights and ensuring accountability for rights violations, enabling them to seek legal redress and protection, rather than denying them the right to access justice."
-           },
+    28:
+        {
+            "question": "Why should children learn about mental health and emotional well-being?",
+            "option1": "Because it helps them understand and manage their emotions and mental health.",
+            "option2": "Because mental health is not important and children should ignore their feelings.",
+            "brief1": "Option 1 is correct because learning about mental health and emotional well-being equips children with coping strategies, resilience, and self-awareness, promoting positive mental health and emotional resilience.",
+            "brief2": "Option 2 is incorrect because mental health is as important as physical health, and teaching children about emotional well-being helps reduce stigma, enhance self-care, and build supportive communities."
+        },
 
-       19:
-           {
-               "question": "What is the significance of the right to freedom of association for children?",
-               "option1": "It allows children to join groups, associations, and clubs and participate in collective activities.",
-               "option2": "It prohibits children from forming social connections and participating in group activities.",
-               "brief1": "Option 1 is correct because the right to freedom of association enables children to join groups, associations, and clubs, and participate in collective activities, fostering social connections, friendships, and a sense of belonging, while also promoting their social, emotional, and cognitive development.",
-               "brief2": "Option 2 is incorrect because the right to freedom of association encourages children to form social connections and participate in group activities, enhancing their social skills, relationships, and sense of community, rather than prohibiting such interactions."
-           },
-       }
+    29:
+        {
+            "question": "Why should children be taught about online etiquette and digital citizenship?",
+            "option1": "Because it helps them navigate online interactions responsibly and respectfully.",
+            "option2": "Because online behavior doesn't matter and children can do whatever they want.",
+            "brief1": "Option 1 is correct because understanding online etiquette and digital citizenship fosters responsible and ethical online behavior, promotes positive interactions, and prevents cyberbullying and harm.",
+            "brief2": "Option 2 is incorrect because online interactions have real-world consequences, and teaching children about digital citizenship encourages responsible and respectful behavior in online spaces."
+        },
+
+    30:
+        {
+            "question": "Why is it important for children to learn about teamwork and cooperation?",
+            "option1": "Because it helps them collaborate with others and achieve common goals.",
+            "option2": "Because children should always work alone and not rely on others.",
+            "brief1": "Option 1 is correct because learning teamwork and cooperation skills enables children to work effectively with others, build strong relationships, and accomplish tasks more efficiently.",
+            "brief2": "Option 2 is incorrect because teamwork and cooperation are essential for success in many aspects of life, and teaching children to collaborate fosters empathy, communication, and mutual support."
+        }
+}
